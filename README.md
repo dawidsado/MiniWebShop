@@ -1,2 +1,2 @@
-# MiniGroceryStore
+# MiniOnlineShop
  
