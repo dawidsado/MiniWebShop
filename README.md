@@ -1,1 +1,1 @@
-# BasicOnlineShoppingProject
+# MiniGroceryStore
